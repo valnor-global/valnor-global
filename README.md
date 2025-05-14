@@ -1,3 +1,3 @@
-# Valnör Global Website
+# Valnör Global
 
-Deployed with Next.js on Vercel.
+Institutional site for international trading company.
